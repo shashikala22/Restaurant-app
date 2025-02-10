@@ -77,7 +77,7 @@ class RestaurantApp:
 
     def run(self):
         while True:
-            print("\n--- Welcome to the Restaurant App ---")
+            print("\n--- Welcome to the Shashi Restaurant App ---")
             print("1. Show Menu")
             print("2. Place Order")
             print("3. View Bill and Pay")
